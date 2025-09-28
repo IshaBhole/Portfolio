@@ -84,18 +84,6 @@ npm install
 npm start
 ```
 
-### Build for Production
-
-```bash
-npm run build
-```
-
-### Deploy to GitHub Pages
-
-```bash
-npm run deploy
-```
-
 ## 📱 Responsive Design
 
 The portfolio is fully responsive and optimized for:
